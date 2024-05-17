@@ -12,11 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![PHP](https://img.shields.io/badge/-Node.js-000?&logo=PhP)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 
 ## 📈 GitHub Stats:
 
