@@ -2,12 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/your-irralozz"><img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social"></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/twitter/follow/your-twitter?label=Follow&style=social"></a>
-  <a href="mailto:your-irralozz@gmail.com"><img src="https://img.shields.io/badge/-Contact%20Me-333333?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="mailto:irralozz@gmail.com"><img src="https://img.shields.io/badge/-Contact%20Me-333333?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/your-username/irralozz/raw/main/header.png" alt="header" />
+  <img src="https://github.com/your-username/irralozz/raw/main/i.png" alt="header" />
 </p>
 
 <h2 align="center">About Me</h2>
@@ -36,6 +35,4 @@
  
 </p>
 
-<p align="center">
-  <img src="https://github.com/irralozz/your-username/raw/main/footer.png" alt="footer" />
-</p>
+
