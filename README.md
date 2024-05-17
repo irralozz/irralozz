@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![PHP](https://img.shields.io/badge/-Node.js-000?&logo=PhP)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PhP)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 
 ## 📈 GitHub Stats:
