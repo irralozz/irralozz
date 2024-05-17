@@ -1,35 +1,41 @@
-- 👋 Hi, I’m @irralozz
-- 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning Laravel, Codeigniter, Pyhton and Java Script
-- 💞️ I’m looking to collaborate on my gihutb (github.com/irralozz)
-- 📫 How to reach me: Reach me via email irralozz@gmail.com
+<h1 align="center">Hi there, I'm Irra 👋</h1>
 
-<!---
-irralozz/irralozz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## 🛠 Languages and Tools:
+<p align="center">
+  <a href="https://github.com/your-irralozz"><img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social"></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/twitter/follow/your-twitter?label=Follow&style=social"></a>
+  <a href="mailto:your-irralozz@gmail.com"><img src="https://img.shields.io/badge/-Contact%20Me-333333?style=flat&logo=gmail&logoColor=white"></a>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PhP)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Matlab](https://img.shields.io/badge/-Matlab-000?&logo=Matlab)
+<p align="center">
+  <img src="https://github.com/your-username/irralozz/raw/main/header.png" alt="header" />
+</p>
 
-## 📈 GitHub Stats:
+<h2 align="center">About Me</h2>
+<p align="center">
+  I am Irra - I am currently learning and passionate about web development, data analysis, and machine learning with a love for building beautiful and functional applications. I enjoy working with a variety of technologies and continuously learning new things.
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=radical)
+<h2 align="center">🛠 Technologies & Tools</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML%20and%20CSS-000?&logo=html5">
+  <img src="https://img.shields.io/badge/-Python-000?&logo=Python">
+  <img src="https://img.shields.io/badge/-Codeigniter-000?&logo=Codeigniter">
+  <img src="https://img.shields.io/badge/-Django-000?&logo=Django">
+  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript">
+  <img src="https://img.shields.io/badge/-Matlab-000?&logo=Matlab">
+</p>
 
-## 🚀 Contributions and Activities:
+<h2 align="center">🤝 Looking to Collaborate</h2>
+<p align="center">
+  I am looking to collaborate with others on open source projects. Feel free to reach out if you have any interesting projects!
+</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=github)
+<h2 align="center">📫 How to reach me</h2>
+<p align="center">
+  <a href="mailto:irralozz@gmail.com"><img src="https://img.shields.io/badge/-Email-000?&logo=Gmail&logoColor=white"></a>
+ 
+</p>
 
-## 🏆 Achievements:
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&margin-w=15)
-
-## 📌 Pinned Repositories:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=radical)](https://github.com/your-username/your-repo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=radical)](https://github.com/your-username/your-repo)
+<p align="center">
+  <img src="https://github.com/irralozz/your-username/raw/main/footer.png" alt="footer" />
+</p>
