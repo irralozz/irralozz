@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/irralozz/raw/main/i.png" alt="header" />
+  <img src="https://github.com/irralozz/irralozz/i.png" alt="header" />
 </p>
 
 <h2 align="center">About Me</h2>
