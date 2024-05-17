@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PhP)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Matlab](https://img.shields.io/badge/-Matlab-000?&logo=Matlab)
 
 ## 📈 GitHub Stats:
 
