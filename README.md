@@ -5,9 +5,7 @@
   <a href="mailto:irralozz@gmail.com"><img src="https://img.shields.io/badge/-Contact%20Me-333333?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="i.png" alt="header" />
-</p>
+
 
 <h2 align="center">About Me</h2>
 <p align="center">
