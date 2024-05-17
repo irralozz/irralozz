@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Irra 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/your-irralozz"><img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social"></a>
+  <a href="https://github.com/irralozz"><img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social"></a>
   <a href="mailto:irralozz@gmail.com"><img src="https://img.shields.io/badge/-Contact%20Me-333333?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
