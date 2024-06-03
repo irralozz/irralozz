@@ -22,6 +22,9 @@
   <img src="https://img.shields.io/badge/-Matlab-000?&logo=Matlab">
 </p>
 
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irralozz&show_icons=true&locale=en&layout=compact" alt="irralozz" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irralozz&" alt="irralozz" /></p>
+
 <h2 align="center">🤝 Looking to Collaborate</h2>
 <p align="center">
   I am looking to collaborate with others on open source projects. Feel free to reach out if you have any interesting projects!
